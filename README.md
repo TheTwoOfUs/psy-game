@@ -1,6 +1,6 @@
 Assignment for the Psycho-inventics course, 2nd Year, 1st Semester, Faculty of Automatic and Control, University Politehnica of Bucharest
 
-![Demo]https://raw.githubusercontent.com/TheTwoOfUs/psy-game/master/demo.png
+![Demo](https://raw.githubusercontent.com/TheTwoOfUs/psy-game/master/demo.png)
 
 Visual memory testing game
 
